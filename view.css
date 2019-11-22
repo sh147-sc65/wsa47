@@ -1,0 +1,50 @@
+@import url('https://fonts.googleapis.com/css?family=Dancing+Script|Indie+Flower&display=swap');
+
+body{
+    background:lightcyan;
+    color:black;
+}
+a{
+    color:black;
+    text-decoration:none;
+}
+
+h1{
+    color:orange;
+    font-size:50pt;
+    font-family: 'Dancing Script','obelixpro', cursive;
+}
+
+a:hover{
+    color:lightpink;
+    background:lightseagreen;
+}
+
+.indent{
+    margin-left: 120px;
+}
+
+.super_class{
+    margin-top:20px;
+    margin-left:450px;
+}
+
+.intent{
+    margin-left: 50px;
+}
+
+.space{
+    margin-bottom:40px;
+}
+
+.second{
+    color:lightcoral;
+}
+
+#CSS{
+    margin-left:400px;
+}
+
+#font{
+    font-family: 'Indie Flower','obelixpro', cursive;
+}
